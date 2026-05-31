@@ -76,10 +76,6 @@ Built a manual regression model from scratch: calculated coefficients, construct
 
 ---
 
-## 📫 Get in Touch
-- 📧 ahmedtarek9t6@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)
-- 💻 [GitHub](https://github.com/YOUR_GITHUB)
 
 
 <!--
