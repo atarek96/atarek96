@@ -16,6 +16,7 @@
 ## 🔧 Tech Stack
 
 **IBM Maximo / MAS**
+
 ![MAS](https://img.shields.io/badge/IBM%20MAS-8.x-0f62fe?style=flat-square)
 ![MIF](https://img.shields.io/badge/MIF-Integration-0f62fe?style=flat-square)
 ![MXLoader](https://img.shields.io/badge/MXLoader-Data%20Migration-0f62fe?style=flat-square)
@@ -24,11 +25,13 @@
 ![Naviam](https://img.shields.io/badge/Naviam-VS%20Code%20Extension-0f62fe?style=flat-square)
 
 **Reporting & BI**
+
 ![Cognos](https://img.shields.io/badge/IBM%20Cognos-Analytics-198038?style=flat-square)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-f2c811?style=flat-square&logoColor=000)
 ![Tableau](https://img.shields.io/badge/Tableau-Visualization-e97627?style=flat-square)
 
 **Data & Programming**
+
 ![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-3776ab?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Database%20Querying-336791?style=flat-square)
 ![R](https://img.shields.io/badge/R-Statistical%20Modeling-276dc3?style=flat-square&logo=r&logoColor=white)
@@ -36,6 +39,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-ff6f00?style=flat-square&logo=tensorflow&logoColor=white)
 
 **Tools**
+
 ![Git](https://img.shields.io/badge/Git-Version%20Control-f05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Containers-2496ed?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-API%20Testing-ff6c37?style=flat-square&logo=postman&logoColor=white)
