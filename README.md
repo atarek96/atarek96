@@ -47,7 +47,7 @@
 
 ---
 
-## 📌 Highlighted Projects
+## 🏗️ Highlighted Projects
 
 ### 🗂 BIRT Material Delivery Note Report
 > **IBM Maximo · SQL · BIRT Report Designer**
